@@ -1,0 +1,2 @@
+# aozora-static-site
+test
