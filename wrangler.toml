@@ -1,0 +1,5 @@
+name = "aozora-static-site"
+compatibility_date = "2023-12-01"
+
+[assets]
+directory = "."
